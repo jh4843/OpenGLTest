@@ -1,0 +1,13 @@
+*.log
+*.pdb
+*.exe
+Debug/
+Release/
+.vs/
+*.ipch
+*.db
+*.opendb
+*.obj
+*.tlog
+*.user
+*.aps
