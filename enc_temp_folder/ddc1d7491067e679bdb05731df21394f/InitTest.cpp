@@ -18,7 +18,8 @@ int main(void)
 
 	glfwMakeContextCurrent(window); //6
 	glewInit(); //7
-	glClearColor(0.5, 0.75, 1, 1); // r, g, b, a (0~1) 
+	glClearColor(0.5, 0.75, 1, 1); //8
+
 
 	while (!glfwWindowShouldClose(window))
 	{

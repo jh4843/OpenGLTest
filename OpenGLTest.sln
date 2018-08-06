@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLTest", "OpenGLTest\OpenGLTest.vcxproj", "{853A0106-8016-438B-8913-3A14FA327145}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GlewTutorial1", "GlewTutorial1\GlewTutorial1.vcxproj", "{6F107681-136F-4056-8C19-EA78DFDC20FE}"
 EndProject
 Global
@@ -15,14 +13,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{853A0106-8016-438B-8913-3A14FA327145}.Debug|x64.ActiveCfg = Debug|x64
-		{853A0106-8016-438B-8913-3A14FA327145}.Debug|x64.Build.0 = Debug|x64
-		{853A0106-8016-438B-8913-3A14FA327145}.Debug|x86.ActiveCfg = Debug|Win32
-		{853A0106-8016-438B-8913-3A14FA327145}.Debug|x86.Build.0 = Debug|Win32
-		{853A0106-8016-438B-8913-3A14FA327145}.Release|x64.ActiveCfg = Release|x64
-		{853A0106-8016-438B-8913-3A14FA327145}.Release|x64.Build.0 = Release|x64
-		{853A0106-8016-438B-8913-3A14FA327145}.Release|x86.ActiveCfg = Release|Win32
-		{853A0106-8016-438B-8913-3A14FA327145}.Release|x86.Build.0 = Release|Win32
 		{6F107681-136F-4056-8C19-EA78DFDC20FE}.Debug|x64.ActiveCfg = Debug|x64
 		{6F107681-136F-4056-8C19-EA78DFDC20FE}.Debug|x64.Build.0 = Debug|x64
 		{6F107681-136F-4056-8C19-EA78DFDC20FE}.Debug|x86.ActiveCfg = Debug|Win32
