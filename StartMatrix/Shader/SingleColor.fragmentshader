@@ -1,0 +1,12 @@
+#version 330 core
+
+// Output data
+out vec4 color;
+in vec4 vertexColor;
+
+void main()
+{
+	// Output color = red 
+	//color = vec3(1,0,0);
+	color = vertexColor;
+}
