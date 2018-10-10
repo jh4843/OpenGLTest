@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Common", "Common\Common.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StartMatrix", "StartMatrix\StartMatrix.vcxproj", "{C3532B2C-087F-4F22-A42E-38849167CC6C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColoredCube", "ColoredCube\ColoredCube.vcxproj", "{2B68787D-1E37-4A8B-A56B-546F8B4B6EC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -59,6 +61,14 @@ Global
 		{C3532B2C-087F-4F22-A42E-38849167CC6C}.Release|x64.Build.0 = Release|x64
 		{C3532B2C-087F-4F22-A42E-38849167CC6C}.Release|x86.ActiveCfg = Release|Win32
 		{C3532B2C-087F-4F22-A42E-38849167CC6C}.Release|x86.Build.0 = Release|Win32
+		{2B68787D-1E37-4A8B-A56B-546F8B4B6EC7}.Debug|x64.ActiveCfg = Debug|x64
+		{2B68787D-1E37-4A8B-A56B-546F8B4B6EC7}.Debug|x64.Build.0 = Debug|x64
+		{2B68787D-1E37-4A8B-A56B-546F8B4B6EC7}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B68787D-1E37-4A8B-A56B-546F8B4B6EC7}.Debug|x86.Build.0 = Debug|Win32
+		{2B68787D-1E37-4A8B-A56B-546F8B4B6EC7}.Release|x64.ActiveCfg = Release|x64
+		{2B68787D-1E37-4A8B-A56B-546F8B4B6EC7}.Release|x64.Build.0 = Release|x64
+		{2B68787D-1E37-4A8B-A56B-546F8B4B6EC7}.Release|x86.ActiveCfg = Release|Win32
+		{2B68787D-1E37-4A8B-A56B-546F8B4B6EC7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
